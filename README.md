@@ -1,5 +1,5 @@
-## Hi there 👋
 
+![Header](img/banner.png)
 <!--
 **aricandra3/aricandra3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
