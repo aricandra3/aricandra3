@@ -3,9 +3,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aricandra3&theme=dark&hide_border=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aricandra3&theme=dark&hide_border=false&layout=compact"
     alt="Top Languages"
     width="100%"
+    height="150"
   />
 </p>
 
