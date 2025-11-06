@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aricandra3&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aricandra3&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aricandra3&theme=radical&hide_border=true&layout=compact)
+
+
 <img src="https://raw.githubusercontent.com/aricandra3/aricandra3/output/snake.svg" alt="Snake animation" />
 
 ###
