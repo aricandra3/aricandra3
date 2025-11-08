@@ -5,7 +5,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aricandra3&theme=dark&hide_border=false&layout=compact"
     alt="Top Languages"
-    width="100%"
+    width="120%"
     height="150"
   />
 </p>
